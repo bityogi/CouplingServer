@@ -1,0 +1,19 @@
+{
+  "name": "coupling-server",
+  "version": "0.0.1",
+  "description": "server for couplingIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bitYogi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
