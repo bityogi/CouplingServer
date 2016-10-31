@@ -1,5 +1,5 @@
-[
-  {
+{ "coupons" :
+  [{
     "id": 1,
     "url": "http://localhost:8080/misc/data/images/coupon1.jpeg",
     "categories": ["cleaner", "chiropractor", "food"],
@@ -82,7 +82,5 @@
       "zip": "92122",
       "country": "United States"
     }
-  }
-
-
-]
+  }]
+}

@@ -12,7 +12,8 @@ app.get('/', function (req, res) {
 
 app.get('/api/coupons', function(req, res) {
   const contents = fs.readFileSync('./misc/data/coupons.json');
-  res.json(JSON.parse(contents));
+  const jsonContents = JSON.parse(contents)
+  res.json(jsonContents.coupons);
 });
 
 app.listen(9090, function () {
