@@ -1,9 +1,9 @@
 { "coupons" :
   [{
     "id": 1,
-    "url": "http://localhost:8080/misc/data/images/coupon1.jpeg",
+    "url": "http://localhost:9090/data/images/coupon1.jpeg",
     "categories": ["cleaner", "chiropractor", "food"],
-    "name": "Coupon Vendor",
+    "name": "Target",
     "address": {
       "street": "123 Main Street",
       "city": "San Diego",
@@ -13,9 +13,9 @@
   },
   {
     "id": 2,
-    "url": "http://localhost:8080/misc/data/images/coupon2.jpeg",
+    "url": "http://localhost:9090/data/images/coupon2.jpeg",
     "categories": ["cleaner", "chiropractor", "food"],
-    "name": "Coupon Vendor",
+    "name": "Joe's Hardware",
     "address": {
       "street": "123 Main Street",
       "city": "San Diego",
@@ -25,9 +25,9 @@
   },
   {
     "id": 3,
-    "url": "http://localhost:8080/misc/data/images/coupon3.png",
+    "url": "http://localhost:9090/data/images/coupon3.png",
     "categories": ["cleaner", "chiropractor", "food"],
-    "name": "Coupon Vendor",
+    "name": "The Deli Shop",
     "address": {
       "street": "123 Main Street",
       "city": "San Diego",
@@ -37,9 +37,9 @@
   },
   {
     "id": 4,
-    "url": "http://localhost:8080/misc/data/images/coupon4.jpeg",
+    "url": "http://localhost:9090/data/images/coupon4.jpeg",
     "categories": ["cleaner", "chiropractor", "food"],
-    "name": "Coupon Vendor",
+    "name": "Busch Gardens",
     "address": {
       "street": "123 Main Street",
       "city": "San Diego",
@@ -49,9 +49,9 @@
   },
   {
     "id": 5,
-    "url": "http://localhost:8080/misc/data/images/coupon6.jpeg",
+    "url": "http://localhost:9090/data/images/coupon6.jpeg",
     "categories": ["cleaner", "chiropractor", "food"],
-    "name": "Coupon Vendor",
+    "name": "Fancy Restaurant",
     "address": {
       "street": "123 Main Street",
       "city": "San Diego",
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "url": "http://localhost:8080/misc/data/images/coupon7.jpeg",
+    "url": "http://localhost:9090/data/images/coupon7.jpeg",
     "categories": ["cleaner", "chiropractor", "food"],
     "name": "Coupon Vendor",
     "address": {
@@ -73,7 +73,7 @@
   },
   {
     "id": 7,
-    "url": "http://localhost:8080/misc/data/images/coupon8.jpeg",
+    "url": "http://localhost:9090/data/images/coupon8.jpeg",
     "categories": ["cleaner", "chiropractor", "food"],
     "name": "Coupon Vendor",
     "address": {

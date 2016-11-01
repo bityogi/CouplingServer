@@ -5,6 +5,7 @@ const fs = require('fs');
 const app = express();
 
 app.use(cors());
+app.use(express.static('misc'));
 
 app.get('/', function (req, res) {
   res.send('Hello World!');
